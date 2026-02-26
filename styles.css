@@ -14,7 +14,7 @@ body {
   margin: 0;
   font-family: "Space Grotesk", sans-serif;
   color: var(--ink);
-  background: radial-gradient(circle at top left, #fff6ee, #f5f0ea 45%, #ece7df 100%);
+  background: radial-gradient(circle at top left, #1b2430, #0b0f14 55%, #070a0f 100%);
 }
 
 h1, h2, h3 {
@@ -224,7 +224,7 @@ a:hover { color: var(--accent-2); }
   font-size: 0.75rem;
   padding: 0.3rem 0.7rem;
   border-radius: 999px;
-  background: rgba(15, 26, 43, 0.08);
+  background: rgba(242, 245, 248, 0.08);
   font-weight: 600;
 }
 
@@ -259,7 +259,7 @@ a:hover { color: var(--accent-2); }
   flex-wrap: wrap;
 }
 
-.contact-card p { color: rgba(255, 255, 255, 0.8); }
+.contact-card p { color: rgba(242, 245, 248, 0.8); }
 
 .contact-actions {
   display: flex;
