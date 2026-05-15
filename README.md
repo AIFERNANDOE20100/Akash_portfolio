@@ -1,4 +1,4 @@
 visit my portfolio
 
 
-https://akashfer.github.io/Akash_portfolio/#contact
+https://akashfer.github.io/Akash_portfolio/
